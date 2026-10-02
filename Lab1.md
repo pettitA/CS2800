@@ -43,10 +43,14 @@
   #### What colors, typography, imagery?
   I'm thinking of using the Gotham Knights- Soft color palette linked below. I've also attached an image of the color palette with the colorblindess test below. The typography will remain consistent across all the products and their descriptions, but I think the comic side and the game side of the website will have different display fonts for their headers and titles to set them apart. There will likely be a mix of fantasy and superhero imagery used throughout the website.
 
+  ![color palette](GothamKnightSoft.png)
+  https://www.color-hex.com/color-palette/1048028 
+
   #### How to balance aesthetic with accessibility and useability
   The aesthetic will be in the background and visually pleasing to the eye, but how the website is organized will be focused on making it intuitive and easy to understand for anyone. 
 
   #### Principles
    I intend to use the principles of hierarchy, proximity, similarity, and common region.
-   
-https://www.color-hex.com/color-palette/1048028 
+
+
+![wireframe](Wizards_Cart.drawio.png)
